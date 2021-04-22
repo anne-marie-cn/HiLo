@@ -1,4 +1,15 @@
-﻿using System;
+﻿/*
+ * HiLo
+ * Version 1.0
+ * By Anne-Marie Charles-Nguyen
+ */
+/// <summary>
+/// HiLo
+/// Version 1.0
+/// By Anne-Marie Charles-Nguyen
+/// </summary>
+
+using System;
 
 namespace ConsoleApp
 {
